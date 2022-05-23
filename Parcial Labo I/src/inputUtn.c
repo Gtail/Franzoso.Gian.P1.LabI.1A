@@ -19,6 +19,7 @@ void getString(char mensaje[],char input[])
 }
 
 
+
 int getString1(char input[], int tam)
 {
     char auxString[tam];
@@ -477,6 +478,7 @@ int chargeSalary(float *salario, char mensaje[], char mensajeError[]) {
 	retorno=0;
 	return retorno;
 }
+
 
 
 

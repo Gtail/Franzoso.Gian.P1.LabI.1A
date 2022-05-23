@@ -10,6 +10,7 @@
 #define AEROLINEAS_H_
 
 
+
 /*
 
 
@@ -27,7 +28,6 @@ struct{
 int validarAerolinea(Aerolinea aerolineas[], int top, int* idAerolinea);
 void HardcodeAerolinea(Aerolinea aerolineas[], int top);
 int getAerolinea_byId(char aerolinea[], int idAerolinea, Aerolinea aerolineas[], int top);
-
 
 
 

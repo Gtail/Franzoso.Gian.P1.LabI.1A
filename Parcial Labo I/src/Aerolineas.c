@@ -56,3 +56,5 @@ int getAerolinea_byId(char aerolinea[], int idAerolinea, Aerolinea aerolineas[],
 
 	return retorno;
 }
+
+

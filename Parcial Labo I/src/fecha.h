@@ -20,8 +20,8 @@
 #define TAMT 4
 #define TAMV 5
 #define TAMD 4
-#define TOP 5
-
+#define TOP 10
+#define TAMP 3
 struct{
 	int dia;
 	int mes;
